@@ -1,0 +1,99 @@
+h1{
+  color: darkgrey;
+  background-color: #1F2937;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding: 30px;
+  display: flex;
+}
+
+h2{
+  color: darkgrey;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #1F2937;
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+}
+
+.container1{
+  background-color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+
+ul{
+  list-style-type: none;
+  color: black;
+  background-color: #E5E7EB;
+  font-size: 16px;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+
+ul li{
+  padding: 2px;
+}
+
+ ol{
+   color: black;
+   background-color: #E5E7EB;
+   font-size: 16px;
+   margin: 20px;
+   padding: 20px 40px;
+   border-radius: 10px;
+ }
+
+ ol li{
+   padding: 2px;
+ }
+
+
+
+p {
+  color: darkgrey;
+  font-size: 16px;
+  background-color: #1F2937;
+  margin: 20px;
+}
+
+img{
+  height: auto;
+  /*width: 100%;*/
+  max-width: 400px;
+  /*max-height: 400px;*/
+  border-radius: 10px;
+  display: block;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+a {
+  text-decoration: none;
+  color: darkgrey;
+}
+
+.Bildunterschrift{
+    color: darkgrey;
+    font-size: 10px;
+    display: block;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
